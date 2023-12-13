@@ -10,7 +10,13 @@
 </h3>
 
   
-| No  | My Videos on Youtube |
-| --- | -------------------- |
-| 1   | [Three Server HomeLab for less than $1,000!](https://www.youtube.com/watch?v=4thPO2f_GkY) |
-
+<table>
+  <tr>
+    <th>No</th>
+    <th>My Videos on Youtube</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://www.youtube.com/watch?v=4thPO2f_GkY">Three Server HomeLab for less than $1,000!</a></td>
+  </tr>
+</table>

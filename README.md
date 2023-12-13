@@ -11,8 +11,6 @@
 
   
 | No  | My Videos on Youtube |
-| --- | ----------- |
-| 1 | [Three Server HomeLab for less than $1,000!](https://www.youtube.com/watch?v=4thPO2f_GkY)
-
-
+| --- | -------------------- |
+| 1   | [Three Server HomeLab for less than $1,000!](https://www.youtube.com/watch?v=4thPO2f_GkY) |
 
